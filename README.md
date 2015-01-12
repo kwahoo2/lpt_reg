@@ -12,8 +12,9 @@ python pybingraph.py
 ```
 
 Bits 6:3 of the status register are used by default:
-
+```
 10 	Ack 	In 	Status-6
 12 	Paper-Out 	In 	Status-5
 13 	Select 	In 	Status-4
 15 	Error 	In 	Status-3
+```
