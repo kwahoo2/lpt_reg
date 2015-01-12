@@ -10,6 +10,8 @@ pybingraph.py - reads test.bin file created by lpr_timed, shows graph and export
 ```
 python pybingraph.py
 ```
+Screenshot https://raw.githubusercontent.com/kwahoo2/lpt_reg/master/lpr_graphs.png
+
 
 Bits 6:3 of the status register are used by default:
 ```
